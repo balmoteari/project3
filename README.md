@@ -11,10 +11,12 @@ In this project, data about the bike share programs in three major American citi
 The user's raw input is incorporated into the source code to produce an interactive experience. The code will import the data based on the input and produce information by calculating descriptive statistics.
 
 ### Files used
+
+### Python Files
 bikeshare.py 
-chicago.csv
-new_york_city.csv
-washington.csv
+
+### CSV Files
+[1]chicago.csv [2]new_york_city.csv [3]washington.csv
 
 ### Credits
 -Richard Kalehoff (Udacity mentor)
